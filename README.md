@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/jnh15fpirxq8f0u6?svg=true)](https://ci.appveyor.com/project/a-naraikin/n-ra-hw-2-event-state-filte)
 
-### [Ссылка на Github Pages](https://a-naraikin.github.io/n-ra-hw.-2_event-state_filte/)
+### [Ссылка на Github Pages](https://artyouhan.github.io/RA16-1/)
 
 ## Домашняя работа «Портфолио с фильтрами»
 
